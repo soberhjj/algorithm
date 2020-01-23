@@ -5,6 +5,7 @@ package com.hjj.bishi;
  */
 //反转链表
 //输入一个链表，反转链表后，输出新链表的表头。
+//思路：头插法
 public class Problem_16 {
     public ListNode ReverseList(ListNode head) {
         if (head == null)
