@@ -1,4 +1,4 @@
-package com.hjj.bishi;
+package com.hjj.jianzhioffer;
 
 /**
  * @author soberhjj  2020/1/18 - 16:17
@@ -38,3 +38,4 @@ class TreeNode {
         val = x;
     }
 }
+
